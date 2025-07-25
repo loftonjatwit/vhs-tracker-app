@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vhs-tracker-app/static/css/main.7e47a155.css",
+    "main.js": "/vhs-tracker-app/static/js/main.dab98cf9.js",
+    "index.html": "/vhs-tracker-app/index.html",
+    "main.7e47a155.css.map": "/vhs-tracker-app/static/css/main.7e47a155.css.map",
+    "main.dab98cf9.js.map": "/vhs-tracker-app/static/js/main.dab98cf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e47a155.css",
+    "static/js/main.dab98cf9.js"
+  ]
+}
